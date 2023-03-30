@@ -1,7 +1,6 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
-import numpy as np
 N_run = 100
 N = 100_000
 pos = np.random.uniform(-1, 1, size=(N_run, N, 2))
