@@ -1,4 +1,4 @@
-#finding π with numpy library which is much faster than using for and if loops.
+#estimating π with numpy library which is much faster than using for and if loops.
 import numpy as np
 N_run = 100
 N = 100_000
