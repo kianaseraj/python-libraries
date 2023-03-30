@@ -1,4 +1,4 @@
-
+#finding π with numpy library instead of using for and if loops, which is much faster.
 import numpy as np
 import matplotlib.pyplot as plt
 N_run = 100
